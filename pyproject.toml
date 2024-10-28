@@ -2,7 +2,7 @@
 name = "calculator-demo"
 version = "0.1.0"
 description = ""
-authors = ["Demetrius Veras de Oliveira/AUTOMATION/Engineer/Sidia <demetrius.v@samsung.com>"]
+authors = ["Demetrius Veras <demetriushenry@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
