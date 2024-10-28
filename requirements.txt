@@ -1,0 +1,2 @@
+coverage==7.6.4 ; python_version >= "3.12" and python_version < "4.0"
+pytest==8.3.3 ; python_version >= "3.12" and python_version < "4.0"
